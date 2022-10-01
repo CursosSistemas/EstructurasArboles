@@ -15,7 +15,7 @@ namespace EstructurasArboles
 
         /// <summary>
         /// Método Constructor del nodo el cual recibe un valor y asign
-        /// asigna nulos a los hijos
+        /// asigna nulos a los hijos - Comentario 2022
         /// </summary>
         /// <param name="valor">hhhhhhhhhhhhh</param>
         public Nodo(Object valor)
