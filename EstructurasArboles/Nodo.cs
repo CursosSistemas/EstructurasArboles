@@ -17,7 +17,7 @@ namespace EstructurasArboles
         /// Método Constructor del nodo el cual recibe un valor y asign
         /// asigna nulos a los hijos 
         /// </summary>
-        /// <param name="valor">hhhhhhhhhhhhh</param>
+        /// <param name="valor">s</param>
         public Nodo(Object valor)
         {
             dato = valor;
