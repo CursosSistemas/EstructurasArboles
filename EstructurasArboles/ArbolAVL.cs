@@ -28,7 +28,7 @@ namespace EstructurasArboles
             n.ramaIzdo(n1.subarbolDcho());
             n1.ramaDcho(n);
             // actualización de los factores de equilibrio
-            if (n1.fe == -1) // se cumple en la inserción
+            if (n1.fe == -1) // se cumple en la inserción.1
             {
                 n.fe = 0;
                 n1.fe = 0;
